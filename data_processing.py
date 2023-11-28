@@ -1,4 +1,6 @@
-print("Adding all the data processing code related to fraud detection")
-print('Adding second line')
+a=5 b=10
 
-print("This is thired line")
+sum(3,4)
+
+sum(a,b):
+return a+b
