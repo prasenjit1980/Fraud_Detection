@@ -1,12 +1,8 @@
-print("Adding modelling algorithms")
+print("Merge clash")
 
-def model1():
-    print("adding code for model 1")
+def model_clash():
+    print("adding code for model clash")
 
-def model2():
-    print("adding code for model 2")
-    
-def model3():
-    print("adding code for model 3")    
+   
 
-print("Model 2 is performing best. Move to prod")    
+print("Nothing is there")    
